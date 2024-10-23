@@ -6,46 +6,62 @@
 [Project Overview](#project-overview)
 
 
-[SQL QUERY](#SQL-QUERY)
+[Table of Content](#table-of-content)
+
+
+
+
 
 ## Project Overview
 ---
  This Excel documentation aims at letting others go through my journey in learning Data Analysis with LITA at The Incubator Hub. My significant growth since I started this journey has really left me surprised. This documentation will help you navigate through Excel like a pro.
 
 ## Table of Content
+---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
-  1. Data Validation
+  1. Data Validation        bring in pictures here
   2. How to create a table
   3. How to clean your data
   4. Pivot table creation
 
-     *JUST WANTED TO SEE HOW ITALIZE WORKS HERE
-💻😄
-- SQL QUERY (**Structured Query Language**)
- 1. DML
- 2. DCL
- 3. TCL
 
-- GIT HUB ACCOUNT CREATION
-   1. Repository creation
-   2. Profile update
+- SQL QUERY (**Structured Query Language**) The 5 SQL Commands
+ 1. DDL
+ 2. DML
+ 3. DCL
+ 4. TCL
+ 5. DQL
 
-SQL QUERY
+
+- SQL QUERY
 
  ```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
-![Cybersecurity](https://github.com/user-attachments/assets/dfa76d13-8d5b-4fdb-9a93-e367be6a6885)
-
-![WhatsApp Image 2024-10-01 at 13 02 26_eea777a3](https://github.com/user-attachments/assets/97fcb8eb-9568-4e02-b883-9f6e177b6a7f)
 
 
-👞
-🥇🥇🥇
+- GIT HUB ACCOUNT CREATION
+   1. Repository creation
+   2. Profile update
+   3. Using the Markup Language
+
+
+- POWER BI(BUSINESS INTELLIGENCE)
+ 1. Data Modelling
+ 2. DAX Functions
+ 3. Create Table
+ 4. Create Measure
+ 5. Calculated Columns
+ 6. Conditional Formatting
+ 7. Data Visualization
+---
+
+
+ 
+
 
 |heading 1| heading 2| heading 3|
 |---------|---------|----------|
 |table 1| table 2| table 3
 
-[Project Overview](#project-overview)
